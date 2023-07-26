@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ashishmeel007" alt="ashishmeel007" /></a> </p>
 
-<h3 align="left">Connect with me:</h3>
 ##   💫 About Me:
 - 🌱  I’m currently learning M.E.R.N
 - 💬  Ask me about React,CSS,HTML,Javacript
 - 👨‍💻 All of my projects are available at https://ashishmeel007.github.io
-- 📫 How to reach me ashishmeel22@gmail.com 
-
+- 📫 How to reach me ashishmeel22@gmail.com
+  
+<h3 align="left">Connect with me:</h3>
 All of my projects are available at:https://ashishmeel007.github.io
 <p align="left">
 <a href="https://linkedin.com/in/ashish m" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashish m" height="30" width="40" /></a>
