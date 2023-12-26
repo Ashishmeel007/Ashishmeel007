@@ -12,7 +12,7 @@
 - 📫 How to reach me ashishmeel22@gmail.com
   
 <h3 align="left">Connect with me:</h3>
-All of my projects are available at:https://ashishmeel007.github.io
+All of my projects are available at:[https://ashishmeel007.github.io](https://iridescent-rolypoly-2d7f71.netlify.app/)
 <p align="left">
 <a href="https://linkedin.com/in/ashish m" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashish m" height="30" width="40" /></a>
 </p>
